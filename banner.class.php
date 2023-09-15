@@ -5,7 +5,7 @@
  * Date: 20.12.2016
  * Time: 15:24
 
- * Updated: 2023-09-15 13:08
+ * Updated: 2023-09-15 18:54
  */
 
 namespace app;
@@ -45,6 +45,9 @@ class banner
         switch ($this->lang) {
             case 'en':
                 $banners = [
+                    '<a target="_blank" href="https://www.amazon.com/gp/search?ie=UTF8&tag=shkod19-20&linkCode=ur2&linkId=c4288bd9639d7b79a60e82c96f3711a2&camp=1789&creative=9325&index=arts-crafts&keywords=Drawing+Art">Drawing Art</a>',
+                    '<a target="_blank" href="https://www.amazon.com/gp/search?ie=UTF8&tag=shkod19-20&linkCode=ur2&linkId=2013322188761005242bd0e128fb64f0&camp=1789&creative=9325&index=arts-crafts&keywords=Art+supplies+for+Drawing">Art supplies for Drawing</a>',
+                    '<a target="_blank" href="https://www.amazon.com/gp/search?ie=UTF8&tag=shkod19-20&linkCode=ur2&linkId=7ec590cac001cd6af0e5849fc6120530&camp=1789&creative=9325&index=arts-crafts&keywords=Sketching">Sketching</a>',
                     '<a target="_blank" href="https://www.amazon.com/b?_encoding=UTF8&tag=shkod19-20&linkCode=ur2&linkId=60a6e237332a02084a1d486ac008b7f0&camp=1789&creative=9325&node=229637">100 Networking and Servers Software</a>',
                     '<a target="_blank" href="https://www.amazon.com/b?_encoding=UTF8&tag=shkod19-20&linkCode=ur2&linkId=60a6e237332a02084a1d486ac008b7f0&camp=1789&creative=9325&node=229637">Networking and Servers Software</a>',
                     '<a href="https://festingervault.com/?ref=22853"><img decoding="async" src="https://festingervault.com/wp-content/uploads/2023/04/FESTINGER-BANNER-3-V2.gif" alt="" /></a>',
