@@ -5,7 +5,7 @@
  * Date: 20.12.2016
  * Time: 15:24
 
- * Updated: 2023-09-15 12:03
+ * Updated: 2023-09-15 13:08
  */
 
 namespace app;
@@ -45,6 +45,8 @@ class banner
         switch ($this->lang) {
             case 'en':
                 $banners = [
+                    '<a target="_blank" href="https://www.amazon.com/b?_encoding=UTF8&tag=shkod19-20&linkCode=ur2&linkId=60a6e237332a02084a1d486ac008b7f0&camp=1789&creative=9325&node=229637">100 Networking and Servers Software</a>',
+                    '<a target="_blank" href="https://www.amazon.com/b?_encoding=UTF8&tag=shkod19-20&linkCode=ur2&linkId=60a6e237332a02084a1d486ac008b7f0&camp=1789&creative=9325&node=229637">Networking and Servers Software</a>',
                     '<a href="https://festingervault.com/?ref=22853"><img decoding="async" src="https://festingervault.com/wp-content/uploads/2023/04/FESTINGER-BANNER-3-V2.gif" alt="" /></a>',
                     '<a href="https://festingervault.com/?ref=22853"><img decoding="async" src="https://festingervault.com/wp-content/uploads/2023/04/FESTINGER-BANNER-1-V2.gif" alt="" /></a>',
                     '<a href="https://festingervault.com/?ref=22853"><img decoding="async" src="https://festingervault.com/wp-content/uploads/2023/04/FESTINGER-BANNER-2-V2-1.gif" alt="" /></a>',
