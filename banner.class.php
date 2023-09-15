@@ -5,7 +5,7 @@
  * Date: 20.12.2016
  * Time: 15:24
 
- * Updated: 2023-09-13 15:02
+ * Updated: 2023-09-15 12:03
  */
 
 namespace app;
@@ -50,26 +50,25 @@ class banner
                     '<a href="https://festingervault.com/?ref=22853"><img decoding="async" src="https://festingervault.com/wp-content/uploads/2023/04/FESTINGER-BANNER-2-V2-1.gif" alt="" /></a>',
                     '<a href="https://festingervault.com/?ref=22853"><img decoding="async" src="https://festingervault.com/wp-content/uploads/2021/02/Festinger-Animated-Banner-1-2.gif" alt="" /></a>',
                     '<a href="https://t.me/phpdinos">Join PHPDinos - new Telegram channel for PHP web developers 🦕</a>',
-                    '<a href="https://recipes.shkodenko.com/en/?ref=' . self::REF_NAME . '">best cooking recipes - blog about healthy food and cooking</a>',
+                    '<a href="https://t.me/phpdinos">Join PHPDinos - our Telegram channel for PHP web developers 🦕</a>',
+                    '<a href="https://recipes.shkodenko.com/en/?ref=' . self::REF_NAME . '">Best Cooking Recipes - blog about healthy food and cooking</a>',
+                    '<a href="https://recipes.shkodenko.com/en/?ref=' . self::REF_NAME . '">Best Cooking Recipes - all about healthy food and cooking</a>',
                     '<a href="https://www.digitalocean.com/?refcode=cfcb074144ad&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge"><img src="https://web-platforms.sfo2.digitaloceanspaces.com/WWW/Badge%203.svg" alt="DigitalOcean Referral Badge" /></a>',
                     '<a href="https://www.digitalocean.com/?refcode=cfcb074144ad&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge"><img src="https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%201.svg" alt="DigitalOcean Referral Badge" /></a>',
                     '<a href="https://www.digitalocean.com/?refcode=cfcb074144ad&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge"><img src="https://web-platforms.sfo2.digitaloceanspaces.com/WWW/Badge%202.svg" alt="DigitalOcean Referral Badge" /></a>',
                     '<a href="http://go.shkodenko.com.ua/to/4" target="_blank" class="p-2 rounded-lg">Buy Me a Coffee ☕</a>',
+                    '<a href="http://go.shkodenko.com.ua/to/4" target="_blank" class="p-2 rounded-lg">Buy Me a cup of Coffee ☕</a>',
                     '<a href="http://go.shkodenko.com.ua/to/3" target="_blank" class="p-2 rounded-lg">Support me on a Patreon ☕</a>',
-                    '<a href="https://ko-fi.com/shtaras" target="_blank" class="p-2 rounded-lg">Buy Me a Coffee ☕</a>',
+                    '<a href="http://go.shkodenko.com.ua/to/3" target="_blank" class="p-2 rounded-lg">Support us on a Patreon ☕</a>',
+                    '<a href="https://ko-fi.com/shtaras" target="_blank" class="p-2 rounded-lg">Buy Me a cup Coffee ☕</a>',
                     '<a href="https://ko-fi.com/shtaras" target="_blank" class="p-2 rounded-lg">Buy Me a Cup of Coffee ☕</a>',
                     '<a href="https://www.shkodenko.com/?ref=' . self::REF_NAME . '">web development blog</a>',
                     '<a href="https://www.shkodenko.com/?ref=' . self::REF_NAME . '">blog about web development</a>',
                     '<a href="https://ip.shkodenko.com/en/your-ip-address/?ref=' . self::REF_NAME . '">get your IP address</a>',
-                    '<a href="https://rndpwd.info/?ref=' . self::REF_NAME . '">generate secure random passwords</a>',
-                    '<a href="http://www.weblancer.net/?affiliate=sh_taras">www.weblancer.net - amazing place for freelancers</a>',
-                    '<a href="http://www.weblancer.net/users/sh_taras/?affiliate=sh_taras">please, look at my profile at www.weblancer.net</a>',
-                    '<a href="http://www.weblancer.net/users/sh_taras/portfolio/?affiliate=sh_taras">please, check my portfolio at www.weblancer.net</a>',
-                    '<a href="https://freelancehunt.com/r/ow4BA" target="_blank"><img alt="FreelanceHunt.com" src="https://freelancehunt.com/static/images/bonus/en/468/1.png" width="468" height="60"></a>',
-                    '<a href="https://freelancehunt.com/r/ow4BA" target="_blank"><img alt="FreelanceHunt.com" src="https://freelancehunt.com/static/images/bonus/en/468/2.png" width="468" height="60"></a>',
-                    '<a href="https://freelancehunt.com/r/ow4BA" target="_blank"><img alt="FreelanceHunt.com" src="https://freelancehunt.com/static/images/bonus/en/468/3.png" width="468" height="60"></a>',
-                    '<a href="https://freelancehunt.com/r/ow4BA" target="_blank"><img alt="FreelanceHunt.com" src="https://freelancehunt.com/static/images/bonus/en/468/5.png" width="468" height="60"></a>',
-                    '<a href="https://freelancehunt.com/r/ow4BA" target="_blank"><img alt="FreelanceHunt.com" src="https://freelancehunt.com/static/images/bonus/en/468/6.png" width="468" height="60"></a>',
+                    '<a href="https://ip.shkodenko.com/en/your-ip-address/?ref=' . self::REF_NAME . '">check your IP address</a>',
+                    '<a href="https://ip.shkodenko.com/en/your-ip-address/?ref=' . self::REF_NAME . '">show your IP address</a>',
+                    '<a href="https://rndpwd.info/?ref=' . self::REF_NAME . '">Generate secure random passwords</a>',
+                    '<a href="https://rndpwd.info/?ref=' . self::REF_NAME . '">Secure random passwords generator</a>',
                 ];
                 break;
 
@@ -177,5 +176,70 @@ class banner
         }
 
         return $bannerHtml;
+    }
+
+    private function ipInfo($ip = NULL, $purpose = "location", $deep_detect = TRUE) {
+        $output = NULL;
+        if (filter_var($ip, FILTER_VALIDATE_IP) === FALSE) {
+            $ip = $_SERVER["REMOTE_ADDR"];
+            if ($deep_detect) {
+                if (filter_var(@$_SERVER['HTTP_X_FORWARDED_FOR'], FILTER_VALIDATE_IP))
+                    $ip = $_SERVER['HTTP_X_FORWARDED_FOR'];
+                if (filter_var(@$_SERVER['HTTP_CLIENT_IP'], FILTER_VALIDATE_IP))
+                    $ip = $_SERVER['HTTP_CLIENT_IP'];
+            }
+        }
+        $purpose    = str_replace(["name", "\n", "\t", " ", "-", "_"], NULL, strtolower(trim($purpose)));
+        $support    = ["country", "countrycode", "state", "region", "city", "location", "address"];
+        $continents = [
+            "AF" => "Africa",
+            "AN" => "Antarctica",
+            "AS" => "Asia",
+            "EU" => "Europe",
+            "OC" => "Australia (Oceania)",
+            "NA" => "North America",
+            "SA" => "South America",
+        ];
+        if (filter_var($ip, FILTER_VALIDATE_IP) && in_array($purpose, $support)) {
+            $ipdat = @json_decode(file_get_contents("http://www.geoplugin.net/json.gp?ip=" . $ip));
+            if (@strlen(trim($ipdat->geoplugin_countryCode)) == 2) {
+                switch ($purpose) {
+                    case "location":
+                        $output = array(
+                            "city"           => @$ipdat->geoplugin_city,
+                            "state"          => @$ipdat->geoplugin_regionName,
+                            "country"        => @$ipdat->geoplugin_countryName,
+                            "country_code"   => @$ipdat->geoplugin_countryCode,
+                            "continent"      => @$continents[strtoupper($ipdat->geoplugin_continentCode)],
+                            "continent_code" => @$ipdat->geoplugin_continentCode
+                        );
+                        break;
+                    case "address":
+                        $address = array($ipdat->geoplugin_countryName);
+                        if (@strlen($ipdat->geoplugin_regionName) >= 1)
+                            $address[] = $ipdat->geoplugin_regionName;
+                        if (@strlen($ipdat->geoplugin_city) >= 1)
+                            $address[] = $ipdat->geoplugin_city;
+                        $output = implode(", ", array_reverse($address));
+                        break;
+                    case "city":
+                        $output = @$ipdat->geoplugin_city;
+                        break;
+                    case "state":
+                        $output = @$ipdat->geoplugin_regionName;
+                        break;
+                    case "region":
+                        $output = @$ipdat->geoplugin_regionName;
+                        break;
+                    case "country":
+                        $output = @$ipdat->geoplugin_countryName;
+                        break;
+                    case "countrycode":
+                        $output = @$ipdat->geoplugin_countryCode;
+                        break;
+                }
+            }
+        }
+        return $output;
     }
 }
