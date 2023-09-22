@@ -5,7 +5,7 @@
  * Date: 20.12.2016
  * Time: 15:24
 
- * Updated: 2023-09-21 17:33
+ * Updated: 2023-09-22 11:07
  */
 
 namespace app;
@@ -51,6 +51,10 @@ class banner
                     '<a target="_blank" href="https://www.amazon.com/gp/search?ie=UTF8&tag=shkod19-20&linkCode=ur2&linkId=7ec590cac001cd6af0e5849fc6120530&camp=1789&creative=9325&index=arts-crafts&keywords=Sketching">Sketching</a>',
                     '<a target="_blank" href="https://www.amazon.com/b?_encoding=UTF8&tag=shkod19-20&linkCode=ur2&linkId=60a6e237332a02084a1d486ac008b7f0&camp=1789&creative=9325&node=229637">100 Networking and Servers Software</a>',
                     '<a target="_blank" href="https://www.amazon.com/b?_encoding=UTF8&tag=shkod19-20&linkCode=ur2&linkId=60a6e237332a02084a1d486ac008b7f0&camp=1789&creative=9325&node=229637">Networking and Servers Software</a>',
+
+                    '<a target="_blank" href="https://amzn.to/3rkAQmz">Alphabet e-book Kindle Edition</a>',
+                    '<a href="https://www.amazon.com/dp/B0CCLJH8F9?&linkCode=li2&tag=shkod19-20&linkId=cdd812e1b6437122805745e8adb08ed7&language=en_US&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B0CCLJH8F9&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=shkod19-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=shkod19-20&language=en_US&l=li2&o=1&a=B0CCLJH8F9" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />',
+                    '<a target="_blank" href="https://www.amazon.com/dp/B0CCLJH8F9?&linkCode=ll1&tag=shkod19-20&linkId=dd0e0ae2e4b0b0fa3028b0c6dcbde720&language=en_US&ref_=as_li_ss_tl">Alphabet e-book Kindle Edition</a>',
 
                     '<a target="_blank" href="https://www.dropbox.com/referrals/AAAwlf2cgPWauEMztYtKtCeDZN0iS4Ib0ZI?src=global9">Dropbox - the best cloud storage for your purposes</a>',
 
