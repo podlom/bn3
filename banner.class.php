@@ -5,7 +5,7 @@
  * Date: 20.12.2016
  * Time: 15:24
 
- * Updated: 2023-09-26 17:08
+ * Updated: 2023-10-05 15:47
  */
 
 namespace app;
@@ -45,6 +45,7 @@ class banner
         switch ($this->lang) {
             case 'en':
                 $banners = [
+                    '<a target="_blank" href="https://www.amazon.com/gp/search?ie=UTF8&tag=shkod19-20&linkCode=ur2&linkId=960621d85ab98b42680b33c0cf114824&camp=1789&creative=9325&index=books&keywords=PHP">PHP Books</a>',
                     '<a target="_blank" href="https://www.amazon.com/b?_encoding=UTF8&tag=shkod19-20&linkCode=ur2&linkId=55fbda5c0122b870eb809ee042dc5ff5&camp=1789&creative=9325&node=6">Top Cookboks for Food</a>',
                     '<a target="_blank" href="https://www.amazon.com/b?_encoding=UTF8&tag=shkod19-20&linkCode=ur2&linkId=5a113a655afb74b8e7f4b5c15bab2b5c&camp=1789&creative=9325&node=5">100 Hot Computer and Technology Books</a>',
                     '<a target="_blank" href="https://www.amazon.com/gp/search?ie=UTF8&tag=shkod19-20&linkCode=ur2&linkId=c4288bd9639d7b79a60e82c96f3711a2&camp=1789&creative=9325&index=arts-crafts&keywords=Drawing+Art">Drawing Art</a>',
