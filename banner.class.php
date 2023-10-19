@@ -5,7 +5,7 @@
  * Date: 20.12.2016
  * Time: 15:24
 
- * Updated: 2023-10-05 15:47
+ * Updated: 2023-10-19 13:43
  */
 
 namespace app;
@@ -45,14 +45,14 @@ class banner
         switch ($this->lang) {
             case 'en':
                 $banners = [
-                    '<a target="_blank" href="https://www.amazon.com/gp/search?ie=UTF8&tag=shkod19-20&linkCode=ur2&linkId=960621d85ab98b42680b33c0cf114824&camp=1789&creative=9325&index=books&keywords=PHP">PHP Books</a>',
-                    '<a target="_blank" href="https://www.amazon.com/b?_encoding=UTF8&tag=shkod19-20&linkCode=ur2&linkId=55fbda5c0122b870eb809ee042dc5ff5&camp=1789&creative=9325&node=6">Top Cookboks for Food</a>',
-                    '<a target="_blank" href="https://www.amazon.com/b?_encoding=UTF8&tag=shkod19-20&linkCode=ur2&linkId=5a113a655afb74b8e7f4b5c15bab2b5c&camp=1789&creative=9325&node=5">100 Hot Computer and Technology Books</a>',
-                    '<a target="_blank" href="https://www.amazon.com/gp/search?ie=UTF8&tag=shkod19-20&linkCode=ur2&linkId=c4288bd9639d7b79a60e82c96f3711a2&camp=1789&creative=9325&index=arts-crafts&keywords=Drawing+Art">Drawing Art</a>',
-                    '<a target="_blank" href="https://www.amazon.com/gp/search?ie=UTF8&tag=shkod19-20&linkCode=ur2&linkId=2013322188761005242bd0e128fb64f0&camp=1789&creative=9325&index=arts-crafts&keywords=Art+supplies+for+Drawing">Art supplies for Drawing</a>',
-                    '<a target="_blank" href="https://www.amazon.com/gp/search?ie=UTF8&tag=shkod19-20&linkCode=ur2&linkId=7ec590cac001cd6af0e5849fc6120530&camp=1789&creative=9325&index=arts-crafts&keywords=Sketching">Sketching</a>',
-                    '<a target="_blank" href="https://www.amazon.com/b?_encoding=UTF8&tag=shkod19-20&linkCode=ur2&linkId=60a6e237332a02084a1d486ac008b7f0&camp=1789&creative=9325&node=229637">100 Networking and Servers Software</a>',
-                    '<a target="_blank" href="https://www.amazon.com/b?_encoding=UTF8&tag=shkod19-20&linkCode=ur2&linkId=60a6e237332a02084a1d486ac008b7f0&camp=1789&creative=9325&node=229637">Networking and Servers Software</a>',
+                    '<a target="_blank" href="https://www.amazon.com/gp/search?ie=UTF8&tag=shkod19-20&linkCode=ur2&linkId=960621d85ab98b42680b33c0cf114824&camp=1789&creative=9325&index=books&keywords=PHP">PHP Books (paid link)</a>',
+                    '<a target="_blank" href="https://www.amazon.com/b?_encoding=UTF8&tag=shkod19-20&linkCode=ur2&linkId=55fbda5c0122b870eb809ee042dc5ff5&camp=1789&creative=9325&node=6">Top Cookboks for Food (paid link)</a>',
+                    '<a target="_blank" href="https://www.amazon.com/b?_encoding=UTF8&tag=shkod19-20&linkCode=ur2&linkId=5a113a655afb74b8e7f4b5c15bab2b5c&camp=1789&creative=9325&node=5">100 Hot Computer and Technology Books (paid link)</a>',
+                    '<a target="_blank" href="https://www.amazon.com/gp/search?ie=UTF8&tag=shkod19-20&linkCode=ur2&linkId=c4288bd9639d7b79a60e82c96f3711a2&camp=1789&creative=9325&index=arts-crafts&keywords=Drawing+Art">Drawing Art (paid link)</a>',
+                    '<a target="_blank" href="https://www.amazon.com/gp/search?ie=UTF8&tag=shkod19-20&linkCode=ur2&linkId=2013322188761005242bd0e128fb64f0&camp=1789&creative=9325&index=arts-crafts&keywords=Art+supplies+for+Drawing">Art supplies for Drawing (paid link)</a>',
+                    '<a target="_blank" href="https://www.amazon.com/gp/search?ie=UTF8&tag=shkod19-20&linkCode=ur2&linkId=7ec590cac001cd6af0e5849fc6120530&camp=1789&creative=9325&index=arts-crafts&keywords=Sketching">Sketching (paid link)</a>',
+                    '<a target="_blank" href="https://www.amazon.com/b?_encoding=UTF8&tag=shkod19-20&linkCode=ur2&linkId=60a6e237332a02084a1d486ac008b7f0&camp=1789&creative=9325&node=229637">100 Networking and Servers Software (paid link)</a>',
+                    '<a target="_blank" href="https://www.amazon.com/b?_encoding=UTF8&tag=shkod19-20&linkCode=ur2&linkId=60a6e237332a02084a1d486ac008b7f0&camp=1789&creative=9325&node=229637">Networking and Servers Software (paid link)</a>',
 
                     '<a target="_blank" href="https://amzn.to/3rkAQmz">Alphabet e-book Kindle Edition</a>',
                     '<a href="https://www.amazon.com/dp/B0CCLJH8F9?&linkCode=li2&tag=shkod19-20&linkId=cdd812e1b6437122805745e8adb08ed7&language=en_US&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B0CCLJH8F9&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=shkod19-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=shkod19-20&language=en_US&l=li2&o=1&a=B0CCLJH8F9" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />',
