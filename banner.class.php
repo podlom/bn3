@@ -5,7 +5,7 @@
  * Date: 20.12.2016
  * Time: 15:24
 
- * Updated: 2023-11-13 13:01
+ * Updated: 2023-11-13 13:53
  */
 
 namespace app;
@@ -45,6 +45,8 @@ class banner
         switch ($this->lang) {
             case 'en':
                 $banners = [
+                    '<a target="_blank" href="https://www.amazon.com/gp/search?ie=UTF8&tag=shkod19-20&linkCode=ur2&linkId=95eb6ad149f9f201040969275d511d0d&camp=1789&creative=9325&index=books&keywords=Humor and Jokes">Top humor and jokes (paid link)</a>',
+                    '<a target="_blank" href="https://www.amazon.com/b?_encoding=UTF8&tag=shkod19-20&linkCode=ur2&linkId=2649d1ee7038753a3de39730f9ecc35a&camp=1789&creative=9325&node=86">Top 100 Hot Humor Books (paid link)</a>',
                     '<a target="_blank" href="https://www.amazon.com/gp/search?ie=UTF8&tag=shkod19-20&linkCode=ur2&linkId=960621d85ab98b42680b33c0cf114824&camp=1789&creative=9325&index=books&keywords=PHP">PHP Books (paid link)</a>',
                     '<a target="_blank" href="https://www.amazon.com/b?_encoding=UTF8&tag=shkod19-20&linkCode=ur2&linkId=55fbda5c0122b870eb809ee042dc5ff5&camp=1789&creative=9325&node=6">Top Cookboks for Food (paid link)</a>',
                     '<a target="_blank" href="https://www.amazon.com/b?_encoding=UTF8&tag=shkod19-20&linkCode=ur2&linkId=5a113a655afb74b8e7f4b5c15bab2b5c&camp=1789&creative=9325&node=5">100 Hot Computer and Technology Books (paid link)</a>',
