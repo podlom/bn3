@@ -5,7 +5,7 @@
  * Date: 20.12.2016
  * Time: 15:24
 
- * Updated: 2023-11-13 13:53
+ * Updated: 2023-11-18 18:39
  */
 
 namespace app;
@@ -66,6 +66,8 @@ class banner
                     '<a href="https://festingervault.com/?ref=22853"><img decoding="async" src="https://festingervault.com/wp-content/uploads/2023/04/FESTINGER-BANNER-1-V2.gif" alt="" /></a>',
                     '<a href="https://festingervault.com/?ref=22853"><img decoding="async" src="https://festingervault.com/wp-content/uploads/2023/04/FESTINGER-BANNER-2-V2-1.gif" alt="" /></a>',
                     '<a href="https://festingervault.com/?ref=22853"><img decoding="async" src="https://festingervault.com/wp-content/uploads/2021/02/Festinger-Animated-Banner-1-2.gif" alt="" /></a>',
+
+
                     '<a href="https://t.me/phpdinos">Join PHPDinos - a Telegram channel for PHP web developers 🦕</a>',
                     '<a href="https://t.me/phpdinos">Join PHPDinos - our Telegram channel for PHP web developers 🦕</a>',
                     '<a href="https://recipes.shkodenko.com/en/?ref=' . self::REF_NAME . '">Best Cooking Recipes - blog about healthy food and cooking</a>',
@@ -73,12 +75,18 @@ class banner
                     '<a href="https://www.digitalocean.com/?refcode=cfcb074144ad&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge"><img src="https://web-platforms.sfo2.digitaloceanspaces.com/WWW/Badge%203.svg" alt="DigitalOcean Referral Badge" /></a>',
                     '<a href="https://www.digitalocean.com/?refcode=cfcb074144ad&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge"><img src="https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%201.svg" alt="DigitalOcean Referral Badge" /></a>',
                     '<a href="https://www.digitalocean.com/?refcode=cfcb074144ad&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge"><img src="https://web-platforms.sfo2.digitaloceanspaces.com/WWW/Badge%202.svg" alt="DigitalOcean Referral Badge" /></a>',
+
+                    '<a href="https://ko-fi.com/shtaras/shop" target="_blank">Check out my shop on Ko-fi platform</a>',
+                    '<a href="https://ko-fi.com/shtaras/shop" target="_blank">Check out our shop on Ko-fi platform</a>',
+                    '<a href="https://ko-fi.com/shtaras/shop" target="_blank">Buy someting in shop on Ko-fi platform</a>',
+                    '<a href="https://ko-fi.com/shtaras/shop" target="_blank">Get someting for you in shop on Ko-fi platform</a>',
                     '<a href="http://go.shkodenko.com.ua/to/4" target="_blank" class="p-2 rounded-lg">Buy Me a Coffee ☕</a>',
                     '<a href="http://go.shkodenko.com.ua/to/4" target="_blank" class="p-2 rounded-lg">Buy Me a cup of Coffee ☕</a>',
                     '<a href="http://go.shkodenko.com.ua/to/3" target="_blank" class="p-2 rounded-lg">Support me on a Patreon ☕</a>',
                     '<a href="http://go.shkodenko.com.ua/to/3" target="_blank" class="p-2 rounded-lg">Support us on a Patreon ☕</a>',
                     '<a href="https://ko-fi.com/shtaras" target="_blank" class="p-2 rounded-lg">Buy Me a cup Coffee ☕</a>',
                     '<a href="https://ko-fi.com/shtaras" target="_blank" class="p-2 rounded-lg">Buy Me a Cup of Coffee ☕</a>',
+
                     '<a href="https://www.shkodenko.com/?ref=' . self::REF_NAME . '">web development blog</a>',
                     '<a href="https://www.shkodenko.com/?ref=' . self::REF_NAME . '">blog about web development</a>',
                     '<a href="https://ip.shkodenko.com/en/your-ip-address/?ref=' . self::REF_NAME . '">get your IP address</a>',
