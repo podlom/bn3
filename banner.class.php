@@ -5,7 +5,7 @@
  * Date: 20.12.2016
  * Time: 15:24
 
- * Updated: 2024-03-15 13:32
+ * Updated: 2025-03-14 23:48
  */
 
 namespace app;
@@ -102,6 +102,13 @@ class banner
 
                     '<a href="https://rndpwd.info/?ref=' . self::REF_NAME . '">Generate secure random passwords</a>',
                     '<a href="https://rndpwd.info/?ref=' . self::REF_NAME . '">Secure random passwords generator</a>',
+
+                    '<a href="https://r.lifecell.ua/RuCC" target="_blank">Switch to Lifecell</a>',
+                    '<a href="https://r.lifecell.ua/RuCC" target="_blank">Get benefits with Lifecell</a>',
+                    '<a href="https://r.lifecell.ua/RuCC" target="_blank">Affordable calls with Lifecell</a>',
+                    '<a href="https://r.lifecell.ua/RuCC" target="_blank">Chayka-Pereklyuchayka recommends Lifecell</a>',
+                    '<a href="https://r.lifecell.ua/RuCC" target="_blank">Join Lifecell</a>',
+
                 ];
                 break;
 
@@ -162,6 +169,13 @@ class banner
                     '<a href="https://blog.shkodenko.com.ua/?ref=' . self::REF_NAME . '">цікаві статті про розробку сайтів</a>',
                     '<a href="https://blog.shkodenko.com.ua/category/devops-uk/?ref=' . self::REF_NAME . '">цікаві статті для DevOps</a>',
                     '<a href="https://blog.shkodenko.com.ua/category/devops-uk/?ref=' . self::REF_NAME . '">адміністрування веб серверів та ОС Linux</a>',
+
+                    '<a href="https://r.lifecell.ua/RuCC" target="_blank">Переходь до Lifecell</a>',
+                    '<a href="https://r.lifecell.ua/RuCC" target="_blank">Отримай вигоду з Lifecell</a>',
+                    '<a href="https://r.lifecell.ua/RuCC" target="_blank">Вигідні дзвінки з Lifecell</a>',
+                    '<a href="https://r.lifecell.ua/RuCC" target="_blank">Чайка-Переключайка рекомендує Lifecell</a>',
+                    '<a href="https://r.lifecell.ua/RuCC" target="_blank">Підключайся до Lifecell</a>',
+
                 ];
                 break;
 
@@ -230,6 +244,13 @@ class banner
                     '<a href="https://blog.shkodenko.com.ua/ru/category/devops-ru/?ref=' . self::REF_NAME . '">всякие полезности для DevOps</a>',
                     '<a href="https://blog.shkodenko.com.ua/ru/category/devops-ru/?ref=' . self::REF_NAME . '">всякие полезности системному администратору</a>',
                     '<a href="https://blog.shkodenko.com.ua/ru/category/devops-ru/?ref=' . self::REF_NAME . '">настройка и администрирование ОС Linux</a>',
+
+                    '<a href="https://r.lifecell.ua/RuCC" target="_blank">Переходи на Lifecell</a>',
+                    '<a href="https://r.lifecell.ua/RuCC" target="_blank">Получай выгоду с Lifecell</a>',
+                    '<a href="https://r.lifecell.ua/RuCC" target="_blank">Выгодные звонки с Lifecell</a>',
+                    '<a href="https://r.lifecell.ua/RuCC" target="_blank">Чайка-Переключайка рекомендует Lifecell</a>',
+                    '<a href="https://r.lifecell.ua/RuCC" target="_blank">Подключайся к Lifecell</a>',
+
                 ];
                 break;
         }
