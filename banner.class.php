@@ -85,6 +85,12 @@ class banner
                     '<a href="https://ko-fi.com/shtaras/shop" target="_blank">Buy someting in shop on Ko-fi platform</a>',
                     '<a href="https://ko-fi.com/shtaras/shop" target="_blank">Get someting for you in shop on Ko-fi platform</a>',
 
+                    '<a href="https://freelancehunt.com/freelancer/sh_taras.html" target="_blank"><img alt="FreelanceHunt.com" src="https://freelancehunt.com/static/images/bonus/en/468/1.png" width="468" height="60"></a>',
+                    '<a href="https://freelancehunt.com/freelancer/sh_taras.html" target="_blank"><img alt="FreelanceHunt.com" src="https://freelancehunt.com/static/images/bonus/en/468/2.png" width="468" height="60"></a>',
+                    '<a href="https://freelancehunt.com/freelancer/sh_taras.html" target="_blank"><img alt="FreelanceHunt.com" src="https://freelancehunt.com/static/images/bonus/en/468/3.png" width="468" height="60"></a>',
+                    '<a href="https://freelancehunt.com/freelancer/sh_taras.html" target="_blank"><img alt="FreelanceHunt.com" src="https://freelancehunt.com/static/images/bonus/en/468/5.png" width="468" height="60"></a>',
+                    '<a href="https://freelancehunt.com/freelancer/sh_taras.html" target="_blank"><img alt="FreelanceHunt.com" src="https://freelancehunt.com/static/images/bonus/en/468/6.png" width="468" height="60"></a>',
+
                     '<a href="http://go.shkodenko.com.ua/to/4" target="_blank" class="p-2 rounded-lg">Buy Me a Coffee ☕</a>',
                     '<a href="http://go.shkodenko.com.ua/to/4" target="_blank" class="p-2 rounded-lg">Buy Me a cup of Coffee ☕</a>',
                     '<a href="http://go.shkodenko.com.ua/to/3" target="_blank" class="p-2 rounded-lg">Support me on a Patreon ☕</a>',
@@ -100,8 +106,8 @@ class banner
                     '<a href="https://ip.shkodenko.com/en/your-ip-address/?ref=' . self::REF_NAME . '">check your IP address</a>',
                     '<a href="https://ip.shkodenko.com/en/your-ip-address/?ref=' . self::REF_NAME . '">show your IP address</a>',
 
-                    '<a href="https://rndpwd.info/?ref=' . self::REF_NAME . '">Generate secure random passwords</a>',
-                    '<a href="https://rndpwd.info/?ref=' . self::REF_NAME . '">Secure random passwords generator</a>',
+                    '<a href="https://rndpwd.shkodenko.com/?ref=' . self::REF_NAME . '">Generate secure random passwords</a>',
+                    '<a href="https://rndpwd.shkodenko.com/?ref=' . self::REF_NAME . '">Secure random passwords generator</a>',
 
                     '<a href="https://r.lifecell.ua/RuCC" target="_blank">Switch to Lifecell</a>',
                     '<a href="https://r.lifecell.ua/RuCC" target="_blank">Get benefits with Lifecell</a>',
@@ -151,18 +157,18 @@ class banner
 
                     '<a href="https://ip.shkodenko.com/?ref=' . self::REF_NAME . '">ваша IP адреса</a>',
 
-                    '<a href="https://rndpwd.info/?ref=' . self::REF_NAME . '">безпечний генератор випадкових паролей</a>',
+                    '<a href="https://rndpwd.shkodenko.com/?ref=' . self::REF_NAME . '">безпечний генератор випадкових паролей</a>',
 
                     '<a href="http://www.weblancer.net/?affiliate=sh_taras">www.weblancer.net - чудовий ресурс для підроботки та фрилансу</a>',
                     '<a href="http://www.weblancer.net/users/sh_taras/?affiliate=sh_taras">дивіться мій профіль на сайті www.weblancer.net</a>',
                     '<a href="http://www.weblancer.net/users/sh_taras/portfolio/?affiliate=sh_taras">дивіться моє портфоліо на сайті www.weblancer.net</a>',
 
-                    // '<a href="https://freelancehunt.com/r/ow4BA" target="_blank"><img alt="FreelanceHunt.com" src="https://freelancehunt.com/static/images/bonus/ua/468/1.png" width="468" height="60"></a>',
-                    // '<a href="https://freelancehunt.com/r/ow4BA" target="_blank"><img alt="FreelanceHunt.com" src="https://freelancehunt.com/static/images/bonus/ua/468/2.png" width="468" height="60"></a>',
-                    // '<a href="https://freelancehunt.com/r/ow4BA" target="_blank"><img alt="FreelanceHunt.com" src="https://freelancehunt.com/static/images/bonus/ua/468/3.png" width="468" height="60"></a>',
-                    // '<a href="https://freelancehunt.com/r/ow4BA" target="_blank"><img alt="FreelanceHunt.com" src="https://freelancehunt.com/static/images/bonus/ua/468/5.png" width="468" height="60"></a>',
-                    // '<a href="https://freelancehunt.com/r/ow4BA" target="_blank"><img alt="FreelanceHunt.com" src="https://freelancehunt.com/static/images/bonus/ua/468/6.png" width="468" height="60"></a>',
-                    // '<a href="https://freelancehunt.com/r/ow4BA" target="_blank"><img alt="FreelanceHunt.com" src="https://freelancehunt.com/static/images/bonus/ua/468/7.png" width="468" height="60"></a>',
+                    '<a href="https://freelancehunt.com/freelancer/sh_taras.html" target="_blank"><img alt="FreelanceHunt.com" src="https://freelancehunt.com/static/images/bonus/ua/468/1.png" width="468" height="60"></a>',
+                    '<a href="https://freelancehunt.com/freelancer/sh_taras.html" target="_blank"><img alt="FreelanceHunt.com" src="https://freelancehunt.com/static/images/bonus/ua/468/2.png" width="468" height="60"></a>',
+                    '<a href="https://freelancehunt.com/freelancer/sh_taras.html" target="_blank"><img alt="FreelanceHunt.com" src="https://freelancehunt.com/static/images/bonus/ua/468/3.png" width="468" height="60"></a>',
+                    '<a href="https://freelancehunt.com/freelancer/sh_taras.html" target="_blank"><img alt="FreelanceHunt.com" src="https://freelancehunt.com/static/images/bonus/ua/468/5.png" width="468" height="60"></a>',
+                    '<a href="https://freelancehunt.com/freelancer/sh_taras.html" target="_blank"><img alt="FreelanceHunt.com" src="https://freelancehunt.com/static/images/bonus/ua/468/6.png" width="468" height="60"></a>',
+                    '<a href="https://freelancehunt.com/freelancer/sh_taras.html" target="_blank"><img alt="FreelanceHunt.com" src="https://freelancehunt.com/static/images/bonus/ua/468/7.png" width="468" height="60"></a>',
 
                     '<a href="https://www.shkodenko.com.ua/?ref=' . self::REF_NAME . '">програмування та розробка сайтів, Київ</a>',
                     '<a href="https://www.shkodenko.com.ua/?ref=' . self::REF_NAME . '">програмування та розробка сайтів, в Україні</a>',
@@ -216,7 +222,7 @@ class banner
 
                     '<a href="https://www.shkodenko.com/?ref=' . self::REF_NAME . '">блог разработчика Тараса Шкоденко</a>',
 
-                    '<a href="https://rndpwd.info/?ref=' . self::REF_NAME . '">сервис генерации безопасных паролей</a>',
+                    '<a href="https://rndpwd.shkodenko.com/?ref=' . self::REF_NAME . '">сервис генерации безопасных паролей</a>',
 
                     '<a href="https://ip.shkodenko.com/ru/%d0%b2%d0%b0%d1%88-ip-%d0%b0%d0%b4%d1%80%d0%b5%d1%81-%d1%80%d1%83%d1%81%d1%81%d0%ba%d0%b8%d0%b9/?ref=' . self::REF_NAME . '">узнать ваш IP адрес</a>',
 
@@ -228,13 +234,13 @@ class banner
                     '<a href="http://www.weblancer.net/users/sh_taras/portfolio/?affiliate=sh_taras">смотрите мое портфолио на сайте www.weblancer.net</a>',
                     '<a href="https://www.shkodenko.com.ua/?ref=' . self::REF_NAME . '">программирование и создание сайтов любой сложности, Киев</a>',
 
-                    // '<a href="https://freelancehunt.com/r/ow4BA" target="_blank"><img alt="FreelanceHunt.com" src="https://freelancehunt.com/static/images/bonus/ru/468/1.png" width="468" height="60"></a>',
-                    // '<a href="https://freelancehunt.com/r/ow4BA" target="_blank"><img alt="FreelanceHunt.com" src="https://freelancehunt.com/static/images/bonus/ru/468/2.png" width="468" height="60"></a>',
-                    // '<a href="https://freelancehunt.com/r/ow4BA" target="_blank"><img alt="FreelanceHunt.com" src="https://freelancehunt.com/static/images/bonus/ru/468/3.png" width="468" height="60"></a>',
-                    // '<a href="https://freelancehunt.com/r/ow4BA" target="_blank"><img alt="FreelanceHunt.com" src="https://freelancehunt.com/static/images/bonus/ru/468/4.png" width="468" height="60"></a>',
-                    // '<a href="https://freelancehunt.com/r/ow4BA" target="_blank"><img alt="FreelanceHunt.com" src="https://freelancehunt.com/static/images/bonus/ru/468/5.png" width="468" height="60"></a>',
-                    // '<a href="https://freelancehunt.com/r/ow4BA" target="_blank"><img alt="FreelanceHunt.com" src="https://freelancehunt.com/static/images/bonus/ru/468/6.png" width="468" height="60"></a>',
-                    // '<a href="https://freelancehunt.com/r/ow4BA" target="_blank"><img alt="FreelanceHunt.com" src="https://freelancehunt.com/static/images/bonus/ru/468/7.png" width="468" height="60"></a>',
+                    '<a href="https://freelancehunt.com/freelancer/sh_taras.html" target="_blank"><img alt="FreelanceHunt.com" src="https://freelancehunt.com/static/images/bonus/ru/468/1.png" width="468" height="60"></a>',
+                    '<a href="https://freelancehunt.com/freelancer/sh_taras.html" target="_blank"><img alt="FreelanceHunt.com" src="https://freelancehunt.com/static/images/bonus/ru/468/2.png" width="468" height="60"></a>',
+                    '<a href="https://freelancehunt.com/freelancer/sh_taras.html" target="_blank"><img alt="FreelanceHunt.com" src="https://freelancehunt.com/static/images/bonus/ru/468/3.png" width="468" height="60"></a>',
+                    '<a href="https://freelancehunt.com/freelancer/sh_taras.html" target="_blank"><img alt="FreelanceHunt.com" src="https://freelancehunt.com/static/images/bonus/ru/468/4.png" width="468" height="60"></a>',
+                    '<a href="https://freelancehunt.com/freelancer/sh_taras.html" target="_blank"><img alt="FreelanceHunt.com" src="https://freelancehunt.com/static/images/bonus/ru/468/5.png" width="468" height="60"></a>',
+                    '<a href="https://freelancehunt.com/freelancer/sh_taras.html" target="_blank"><img alt="FreelanceHunt.com" src="https://freelancehunt.com/static/images/bonus/ru/468/6.png" width="468" height="60"></a>',
+                    '<a href="https://freelancehunt.com/freelancer/sh_taras.html" target="_blank"><img alt="FreelanceHunt.com" src="https://freelancehunt.com/static/images/bonus/ru/468/7.png" width="468" height="60"></a>',
 
                     '<a href="https://www.shkodenko.com.ua/?ref=' . self::REF_NAME . '">создание сайтов на основе Wordpress CMS любой сложности, Киев</a>',
                     '<a href="https://www.shkodenko.com.ua/?ref=' . self::REF_NAME . '">создание сайтов на основе Drupal 7+ любой сложности, Киев</a>',
