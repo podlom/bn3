@@ -65,10 +65,10 @@ class banner
 
                     '<a target="_blank" href="https://www.dropbox.com/referrals/AAAwlf2cgPWauEMztYtKtCeDZN0iS4Ib0ZI?src=global9">Dropbox - the best cloud storage for your purposes</a>',
 
-                    '<a href="https://festingervault.com/?ref=22853"><img decoding="async" src="https://festingervault.com/wp-content/uploads/2023/04/FESTINGER-BANNER-3-V2.gif" alt="" /></a>',
-                    '<a href="https://festingervault.com/?ref=22853"><img decoding="async" src="https://festingervault.com/wp-content/uploads/2023/04/FESTINGER-BANNER-1-V2.gif" alt="" /></a>',
-                    '<a href="https://festingervault.com/?ref=22853"><img decoding="async" src="https://festingervault.com/wp-content/uploads/2023/04/FESTINGER-BANNER-2-V2-1.gif" alt="" /></a>',
-                    '<a href="https://festingervault.com/?ref=22853"><img decoding="async" src="https://festingervault.com/wp-content/uploads/2021/02/Festinger-Animated-Banner-1-2.gif" alt="" /></a>',
+                    '<a href="https://account.festingervault.com/ref/47528/"><img decoding="async" src="https://festingervault.com/wp-content/uploads/2023/04/FESTINGER-BANNER-3-V2.gif" alt="" /></a>',
+                    '<a href="https://account.festingervault.com/ref/47528/"><img decoding="async" src="https://festingervault.com/wp-content/uploads/2023/04/FESTINGER-BANNER-1-V2.gif" alt="" /></a>',
+                    '<a href="https://account.festingervault.com/ref/47528/"><img decoding="async" src="https://festingervault.com/wp-content/uploads/2023/04/FESTINGER-BANNER-2-V2-1.gif" alt="" /></a>',
+                    '<a href="https://account.festingervault.com/ref/47528/"><img decoding="async" src="https://festingervault.com/wp-content/uploads/2021/02/Festinger-Animated-Banner-1-2.gif" alt="" /></a>',
 
                     '<a href="https://t.me/phpdinos">Join PHPDinos - a Telegram channel for PHP web developers 🦕</a>',
                     '<a href="https://t.me/phpdinos">Join PHPDinos - our Telegram channel for PHP web developers 🦕</a>',
@@ -126,10 +126,10 @@ class banner
 
                     '<a target="_blank" href="https://www.dropbox.com/referrals/AAAwlf2cgPWauEMztYtKtCeDZN0iS4Ib0ZI?src=global9">Dropbox - найкраще рішення для зберігання файлів у хмарі</a>',
 
-                    '<a href="https://festingervault.com/?ref=22853"><img decoding="async" src="https://festingervault.com/wp-content/uploads/2023/04/FESTINGER-BANNER-3-V2.gif" alt="" /></a>',
-                    '<a href="https://festingervault.com/?ref=22853"><img decoding="async" src="https://festingervault.com/wp-content/uploads/2023/04/FESTINGER-BANNER-1-V2.gif" alt="" /></a>',
-                    '<a href="https://festingervault.com/?ref=22853"><img decoding="async" src="https://festingervault.com/wp-content/uploads/2023/04/FESTINGER-BANNER-2-V2-1.gif" alt="" /></a>',
-                    '<a href="https://festingervault.com/?ref=22853"><img decoding="async" src="https://festingervault.com/wp-content/uploads/2021/02/Festinger-Animated-Banner-1-2.gif" alt="" /></a>',
+                    '<a href="https://account.festingervault.com/ref/47528/"><img decoding="async" src="https://festingervault.com/wp-content/uploads/2023/04/FESTINGER-BANNER-3-V2.gif" alt="" /></a>',
+                    '<a href="https://account.festingervault.com/ref/47528/"><img decoding="async" src="https://festingervault.com/wp-content/uploads/2023/04/FESTINGER-BANNER-1-V2.gif" alt="" /></a>',
+                    '<a href="https://account.festingervault.com/ref/47528/"><img decoding="async" src="https://festingervault.com/wp-content/uploads/2023/04/FESTINGER-BANNER-2-V2-1.gif" alt="" /></a>',
+                    '<a href="https://account.festingervault.com/ref/47528/"><img decoding="async" src="https://festingervault.com/wp-content/uploads/2021/02/Festinger-Animated-Banner-1-2.gif" alt="" /></a>',
 
                     '<a href="https://t.me/phpdinos">Доєднуйтесь до PHPDinos - нового Telegram каналу для PHP та web розробників 🦕</a>',
                     '<a href="https://recipes.shkodenko.com/?ref=' . self::REF_NAME . '">best cooking recipes - блог про здорову їжу та її приготування</a>',
@@ -196,10 +196,10 @@ class banner
 
                     '<a target="_blank" href="https://www.dropbox.com/referrals/AAAwlf2cgPWauEMztYtKtCeDZN0iS4Ib0ZI?src=global9">Dropbox - лучшее решение для файлового хранилища в облаке</a>',
 
-                    '<a href="https://festingervault.com/?ref=22853"><img decoding="async" src="https://festingervault.com/wp-content/uploads/2023/04/FESTINGER-BANNER-3-V2.gif" alt="" /></a>',
-                    '<a href="https://festingervault.com/?ref=22853"><img decoding="async" src="https://festingervault.com/wp-content/uploads/2023/04/FESTINGER-BANNER-1-V2.gif" alt="" /></a>',
-                    '<a href="https://festingervault.com/?ref=22853"><img decoding="async" src="https://festingervault.com/wp-content/uploads/2023/04/FESTINGER-BANNER-2-V2-1.gif" alt="" /></a>',
-                    '<a href="https://festingervault.com/?ref=22853"><img decoding="async" src="https://festingervault.com/wp-content/uploads/2021/02/Festinger-Animated-Banner-1-2.gif" alt="" /></a>',
+                    '<a href="https://account.festingervault.com/ref/47528/"><img decoding="async" src="https://festingervault.com/wp-content/uploads/2023/04/FESTINGER-BANNER-3-V2.gif" alt="" /></a>',
+                    '<a href="https://account.festingervault.com/ref/47528/"><img decoding="async" src="https://festingervault.com/wp-content/uploads/2023/04/FESTINGER-BANNER-1-V2.gif" alt="" /></a>',
+                    '<a href="https://account.festingervault.com/ref/47528/"><img decoding="async" src="https://festingervault.com/wp-content/uploads/2023/04/FESTINGER-BANNER-2-V2-1.gif" alt="" /></a>',
+                    '<a href="https://account.festingervault.com/ref/47528/"><img decoding="async" src="https://festingervault.com/wp-content/uploads/2021/02/Festinger-Animated-Banner-1-2.gif" alt="" /></a>',
 
                     '<a href="https://t.me/phpdinos">Присоединяйтесь к PHPDinos - новому Telegram каналу для PHP веб разработчиков 🦕</a>',
 
