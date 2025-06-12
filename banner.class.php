@@ -102,9 +102,9 @@ class banner
                     '<a href="https://www.shkodenko.com/?ref=' . self::REF_NAME . '">web development blog</a>',
                     '<a href="https://www.shkodenko.com/?ref=' . self::REF_NAME . '">blog about web development</a>',
 
-                    '<a href="https://ip.shkodenko.com/en/your-ip-address/?ref=' . self::REF_NAME . '">get your IP address</a>',
-                    '<a href="https://ip.shkodenko.com/en/your-ip-address/?ref=' . self::REF_NAME . '">check your IP address</a>',
-                    '<a href="https://ip.shkodenko.com/en/your-ip-address/?ref=' . self::REF_NAME . '">show your IP address</a>',
+                    '<a href="https://ip.shkodenko.com/?ref=' . self::REF_NAME . '">get your IP address</a>',
+                    '<a href="https://ip.shkodenko.com/?ref=' . self::REF_NAME . '">check your IP address</a>',
+                    '<a href="https://ip.shkodenko.com/?ref=' . self::REF_NAME . '">show your IP address</a>',
 
                     '<a href="https://rndpwd.shkodenko.com/?ref=' . self::REF_NAME . '">Generate secure random passwords</a>',
                     '<a href="https://rndpwd.shkodenko.com/?ref=' . self::REF_NAME . '">Secure random passwords generator</a>',
@@ -161,7 +161,7 @@ class banner
                     '<a href="https://shkodenko.com.ua/tech.html?ref=' . self::REF_NAME . '#cert">програмування та розробника сайтів від сертифікованого розробника</a>',
                     '<a href="https://shkodenko.com.ua/tech.html?ref=' . self::REF_NAME . '#cert">програмування та розробника сайтів від профі</a>',
 
-                    '<a href="https://ip.shkodenko.com/?ref=' . self::REF_NAME . '">ваша IP адреса</a>',
+                    '<a href="https://ip.shkodenko.com/?lang=uk&ref=' . self::REF_NAME . '">ваша IP адреса</a>',
 
                     '<a href="https://rndpwd.shkodenko.com/?ref=' . self::REF_NAME . '">безпечний генератор випадкових паролей</a>',
 
@@ -236,7 +236,7 @@ class banner
 
                     '<a href="https://rndpwd.shkodenko.com/?ref=' . self::REF_NAME . '">сервис генерации безопасных паролей</a>',
 
-                    '<a href="https://ip.shkodenko.com/ru/%d0%b2%d0%b0%d1%88-ip-%d0%b0%d0%b4%d1%80%d0%b5%d1%81-%d1%80%d1%83%d1%81%d1%81%d0%ba%d0%b8%d0%b9/?ref=' . self::REF_NAME . '">узнать ваш IP адрес</a>',
+                    '<a href="https://ip.shkodenko.com/?ref=' . self::REF_NAME . '">узнать ваш IP адрес</a>',
 
                     '<a href="https://www.shkodenko.com.ua/?ref=' . self::REF_NAME . '">программирование и разработка сайтов, Киев</a>',
                     '<a href="https://www.shkodenko.com.ua/?ref=' . self::REF_NAME . '">программирование и разработка сайтов, в Украине</a>',
