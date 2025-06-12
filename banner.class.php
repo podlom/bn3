@@ -121,6 +121,8 @@ class banner
                     
                     '<a href="https://www.upwork.com/freelancers/~01e05248f10699bf9d">Check Taras Shkodenko profile at Upwork.com</a>',
 
+                    '<a href="https://www.dropbox.com/referrals/AAAwlf2cgPWauEMztYtKtCeDZN0iS4Ib0ZI?src=global91">Download Dropbox for your computer and get 500 MB</a>',
+
                 ];
                 break;
 
@@ -193,6 +195,8 @@ class banner
                     '<a href="https://www.freelancer.com/u/podlom">Профіль Тараса Шкоденко на Freelancer.com</a>',
                     
                     '<a href="https://www.upwork.com/freelancers/~01e05248f10699bf9d">Профіль Тараса Шкоденко на Upwork.com</a>',
+
+                    '<a href="https://www.dropbox.com/referrals/AAAwlf2cgPWauEMztYtKtCeDZN0iS4Ib0ZI?src=global91">Завантаж собі Dropbox для комп&apos;ютеру та отримай 500 МБ</a>',
 
                 ];
                 break;
@@ -274,6 +278,8 @@ class banner
                     '<a href="https://www.freelancer.com/u/podlom">Профиль Тараса Шкоденко на Freelancer.com</a>',
                     
                     '<a href="https://www.upwork.com/freelancers/~01e05248f10699bf9d">Профиль Тараса Шкоденко на Upwork.com</a>',
+
+                    '<a href="https://www.dropbox.com/referrals/AAAwlf2cgPWauEMztYtKtCeDZN0iS4Ib0ZI?src=global91">Загрузи себе Dropbox для компьютера и получи 500 МБ</a>',
 
                 ];
                 break;
