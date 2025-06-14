@@ -1,10 +1,14 @@
 <?php
+
+declare(strict_types=1);
+
 /**
  * Created by PhpStorm.
  * User: Тарас
  * Date: 20.12.2016
  * Time: 15:23
- * Updated: 2023-07-18 20:04
+ *
+ * Updated: 2025-06-14 20:24
  */
 
 require_once 'banner.class.php';
