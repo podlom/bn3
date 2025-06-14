@@ -323,7 +323,7 @@ class banner
             'lang' => $this->lang,
         ];
 
-        $ch = curl_init('https://go.shkodenko.com/site/log-banner-click');
+        $ch = curl_init('https://go.shkodenko.com/log-banner-click');
         curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
         curl_setopt($ch, CURLOPT_POSTFIELDS, http_build_query($payload));
         curl_setopt($ch, CURLOPT_POST, true);
