@@ -292,10 +292,44 @@ class banner
                 shuffle($banners);
                 $bannerHtml = $banners[0];
             }
+
+            // Витягуємо URL з тега <a href="...">
+            if (preg_match('/<a\s[^>]*href=[\'"]([^\'"]+)[\'"]/i', $bannerHtml, $matches92)) {
+                $this->logClick($matches92[1]);
+            }
+
             return $bannerHtml;
         }
 
+        // Витягуємо URL з тега <a href="...">
+        if (preg_match('/<a\s[^>]*href=[\'"]([^\'"]+)[\'"]/i', $bannerHtml, $matches91)) {
+            $this->logClick($matches91[1]);
+        }
+
         return $bannerHtml;
+    }
+
+    private function logClick($url)
+    {
+        $payload = [
+            'key' => '***REMOVED***', // <-- має відповідати Yii2 конфігурації
+            'url' => $url,
+            'ip' => $_SERVER['REMOTE_ADDR'] ?? null,
+            // 'country' => null,
+            // 'city' => null,
+            // 'isp' => null,
+            'user_agent' => $_SERVER['HTTP_USER_AGENT'] ?? null,
+            'network' => self::REF_NAME,
+            'lang' => $this->lang,
+        ];
+
+        $ch = curl_init('https://go.shkodenko.com/site/log-banner-click');
+        curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
+        curl_setopt($ch, CURLOPT_POSTFIELDS, http_build_query($payload));
+        curl_setopt($ch, CURLOPT_POST, true);
+        curl_setopt($ch, CURLOPT_TIMEOUT, 1); // не чекай довго
+        curl_exec($ch);
+        curl_close($ch);
     }
 
     private function ipInfo($ip = NULL, $purpose = "location", $deep_detect = TRUE) {
